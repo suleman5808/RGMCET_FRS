@@ -680,7 +680,7 @@ function App() {
         </button>
 
         <footer className="app-footer">
-          <span>Developed CSE (Data Science)</span>
+          <span>Developed by CSE (Data Science)-RGMCET</span>
          
         </footer>
       </section>
