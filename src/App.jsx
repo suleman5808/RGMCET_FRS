@@ -680,8 +680,8 @@ function App() {
         </button>
 
         <footer className="app-footer">
-          <span>Developed by Dr. M Suleman Basha</span>
-          <span>CSE (Data Science)</span>
+          <span>Developed CSE (Data Science)</span>
+         
         </footer>
       </section>
     </main>
